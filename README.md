@@ -1,14 +1,14 @@
-      # Real Time Bus Tracker
+# Real Time Bus Tracker
 
 ## Description
 In this project we are building a real time tracker for the buses in the area of Boston. Currently it only shows the stops and buses of route 1  serving the route Harvard Square-Nubian Station.
 You can click on a stop icon and it will show the stop id, street where it is located and if the location has wheelchair boarding.
 	When click on a bus icon will show the route id, the current status witch respect to the nearest stop and the occupancy status.
 
-      ## How to Run:
+## How to Run:
       To run this project download all the files to your local machine and then open the file index.html in a browser.
 
-      ## Roadmap
+## Roadmap
       We can add a lot of features and functionality to this project. 
     • More routes.
     • Arrival times.
@@ -16,7 +16,7 @@ You can click on a stop icon and it will show the stop id, street where it is lo
     • Trip planner.
     • Connections routes.
       
-      ## License
+## License
 MIT License
 
 Copyright (c) 2021
