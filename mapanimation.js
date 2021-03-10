@@ -1,4 +1,4 @@
-mapboxgl.accessToken = "pk.eyJ1IjoianVhbi0xNDQiLCJhIjoiY2tsdjFoMnNjMDN6ZTJ3cDk5Nm45bWh6bSJ9.pHOjLqPiV4WxXFUekhEY5g";
+mapboxgl.accessToken = "your-access-token-here";
 let buses = [];
 
 //map variable initialization
