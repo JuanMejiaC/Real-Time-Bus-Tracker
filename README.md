@@ -6,7 +6,7 @@ You can click on a stop icon and it will show the stop id, street where it is lo
 	When click on a bus icon will show the route id, the current status witch respect to the nearest stop and the occupancy status.
 
 ## How to Run:
-      To run this project you will need a mapbox access token that you can get for free at https://www.mapbox.com. Then download all the files in this repo to your local machine. Open the file map animation.js and edit the first line of code
+      To run this project you will need a mapbox access token that you can get for free at https://www.mapbox.com. Then download all the files in this repo to your local machine. Open the file mapanimation.js and edit the first line of code
       by inserting the token you got from mapbox. Once everything is set up open the file **index.html** in chrome.
 
 ## Roadmap
